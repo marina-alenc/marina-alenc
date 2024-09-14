@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**marina-alenc/marina-alenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,5 +19,7 @@ picture>
     srcset="https://github-readme-stats.vercel.app/api?username=marina-alenc_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marina-alenc&show_icons=true" />
 </picture>
+
+
