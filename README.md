@@ -3,8 +3,6 @@
 ### Who am I?
 Hi! I'm Marina Alencar, a veterinarian passionate about animals who is currently transitioning into the exciting world of front-end development. 🌟
 
-I'm currently learning **HTML**, **CSS**, and **JavaScript**, while also exploring tools like **React**. Shifting from taking care of animals to coding has been a challenge, but I'm loving every step of this journey!
-
 ### 🔧 Technologies & Tools:
 - HTML5 & CSS3
 - JavaScript
