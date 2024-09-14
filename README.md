@@ -33,16 +33,4 @@ To become a front-end developer capable of crafting amazing digital experiences,
   <img src="https://img.shields.io/badge/-CSS3-purple?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge
 
-picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marina-alenc&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marina-alenc_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=marina-alenc&show_icons=true" />
-</picture>
-
 
