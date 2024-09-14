@@ -29,6 +29,6 @@ To become a front-end developer capable of crafting amazing digital experiences,
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-purple?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge">
 
 
